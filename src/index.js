@@ -6,6 +6,8 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <br></br>
+    <h1 align='center'>TicTacToe</h1>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
